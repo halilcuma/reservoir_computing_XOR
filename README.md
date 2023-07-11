@@ -12,27 +12,27 @@ The main strength of reservoir computing lies in its efficient training process.
 
 ### Project Structure
 
-The core of this project is the Jupyter notebook `Reservoir_XOR.ipynb`, which contains the implementation of the Reservoir Computing algorithm to solve the XOR problem. This notebook includes a brief introduction to Reservoir Computing and the mathematical equations used to describe the reservoir's dynamics. It also demonstrates the PyTorch implementation of the Reservoir Computing algorithm for the XOR problem.
+The core of this project is the Jupyter notebook `Optical_Reservoir.ipynb`, which contains the implementation of the Reservoir Computing algorithm to solve the XOR problem. This notebook includes a brief introduction to Reservoir Computing and the mathematical equations used to describe the reservoir's dynamics. It also demonstrates the PyTorch implementation of the Reservoir Computing algorithm for the XOR problem.
 
 ### Getting Started
 
 To get started with this project, clone the repository and install the required Python packages:
 
 ```bash
-git clone https://github.com/your-username/Reservoir_Computing_XOR_Project.git
-cd Reservoir_Computing_XOR_Project
+git clone https://github.com/halilcuma/reservoir_computing_XOR.git
+cd Optical_Reservoir.ipynb
 pip install -r requirements.txt
 ```
 
 Then, open the Jupyter notebook:
 
 ```bash
-jupyter notebook Reservoir_XOR.ipynb
+jupyter notebook Optical_Reservoir.ipynb
 ```
 
 ### Contents
 
-- `Reservoir_XOR.ipynb`: Jupyter notebook that contains the implementation of the Reservoir Computing algorithm for the XOR problem.
+- `Optical_Reservoir.ipynb`: Jupyter notebook that contains the implementation of the Reservoir Computing algorithm for the XOR problem.
 - `requirements.txt`: Contains Python dependencies for this project.
 
 ### Requirements

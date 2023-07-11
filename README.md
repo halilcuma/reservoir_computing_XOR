@@ -1,7 +1,5 @@
 # reservoir_computing_XOR
 
-# README.md for your GitHub Repository
-
 ## Reservoir Computing XOR Project
 
 Welcome to the Reservoir Computing XOR Project! This project demonstrates the implementation of reservoir computing, a machine-learning algorithm designed to reduce computational resources needed for time-series prediction without compromising accuracy, using Python and PyTorch. This implementation applies reservoir computing to a simple yet classic problem in neural networks: the XOR problem.
@@ -48,7 +46,3 @@ We welcome contributions to this project! Please feel free to submit a pull requ
 ### License
 
 This project is licensed under the terms of the MIT license. For more information, please see the [LICENSE](LICENSE) file in this repository. 
-
----
-
-Remember, it's always a good idea to give your repository a clear and concise name, as well as a description that quickly informs users what your project is about. It's also beneficial to include a section about how to contribute to your project, along with any relevant contact information. Also, don't forget to link any resources or references you used in the process of creating your project.

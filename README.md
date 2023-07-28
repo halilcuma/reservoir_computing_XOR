@@ -39,10 +39,6 @@ jupyter notebook Optical_Reservoir.ipynb
 
 This project requires Python 3.6 or later and PyTorch 1.0 or later. All the dependencies are included in the `requirements.txt` file.
 
-### Contributing
-
-We welcome contributions to this project! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request.
-
 ### License
 
 This project is licensed under the terms of the MIT license. For more information, please see the [LICENSE](LICENSE) file in this repository. 

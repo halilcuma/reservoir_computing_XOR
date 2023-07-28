@@ -2,7 +2,7 @@
 
 ## Reservoir Computing XOR Project
 
-Welcome to the Reservoir Computing XOR Project! This project demonstrates the implementation of reservoir computing, a machine-learning algorithm designed to reduce computational resources needed for time-series prediction without compromising accuracy, using Python and PyTorch. This implementation applies reservoir computing to a simple yet classic problem in neural networks: the XOR problem.
+This project demonstrates the implementation of reservoir computing, a machine-learning algorithm designed to reduce computational resources needed for time-series prediction without compromising accuracy, using Python and PyTorch. This implementation applies reservoir computing to a simple yet classic problem in neural networks: the XOR problem.
 
 ### Introduction
 
